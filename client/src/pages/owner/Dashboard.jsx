@@ -44,7 +44,6 @@ const Dashboard = () => {
     if(isOwner){
       fetchDashboardData()
     }
-    
   },[isOwner])
 
 
