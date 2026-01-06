@@ -145,13 +145,9 @@ rent-a-car/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📧 Contact
 
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions or suggestions, feel free to reach out at kaushikyuvraj134@gmail.com!
 
 ---
 
